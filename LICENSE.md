@@ -1,4 +1,4 @@
-# 
+# Automático Aseprite efectos para Mac OS | Avanzado Aseprite efectos para PC Windows. Con nodos de materiales y lápiz graso — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
